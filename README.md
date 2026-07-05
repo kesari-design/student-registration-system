@@ -72,16 +72,16 @@ During this project, I learned:
 ## Application Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](screenshots/home.png.png)
 
 ### Validation
-![Validation](screenshots/validation.png)
+![Validation](screenshots/validation.png.png)
 
 ### Student Saved Successfully
-![Success](screenshots/success.png)
+![Success](screenshots/success.png.png)
 
 ### REST API (Postman)
-![Postman](screenshots/postman.png)
+![Postman](screenshots/postman.png.png)
 
 ## Author
 Kesari
