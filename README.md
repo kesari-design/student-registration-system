@@ -69,6 +69,19 @@ During this project, I learned:
 - JWT Authentication
 - Docker deployment
 
-## Author
+## Application Screenshots
 
+### Home Page
+![Home](screenshots/home.png)
+
+### Validation
+![Validation](screenshots/validation.png)
+
+### Student Saved Successfully
+![Success](screenshots/success.png)
+
+### REST API (Postman)
+![Postman](screenshots/postman.png)
+
+## Author
 Kesari
